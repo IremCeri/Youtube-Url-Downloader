@@ -1,5 +1,4 @@
 from pytube import YouTube
-import time
 url=input("Bir YouTube Url'si Giriniz:")
 YouTube1=pytube.YouTube(url)
 
